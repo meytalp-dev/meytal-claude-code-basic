@@ -1,0 +1,21 @@
+{
+  "name": "meytal-claude-code-basic",
+  "owner": {
+    "name": "Meytal P",
+    "email": ""
+  },
+  "metadata": {
+    "description": "חבילת בסיס ל-Claude Code בעברית - סקילס לכתיבה בעברית ו-RTL",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "hebrew-basics",
+      "source": "./plugins/hebrew-basics",
+      "description": "כתיבה מקצועית בעברית + RTL תקין בכל תוצר HTML",
+      "version": "1.0.0",
+      "keywords": ["hebrew", "rtl", "content-writing"],
+      "category": "productivity"
+    }
+  ]
+}
